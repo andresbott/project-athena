@@ -1,0 +1,7 @@
+ 
+# ignore backup files
+*.FCBak
+
+
+# os stuff
+.directory
